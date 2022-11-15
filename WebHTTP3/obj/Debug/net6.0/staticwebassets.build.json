@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OcBdXfm73UGZkgIyxcyT029V+ZpfUphMOvEcvy3Ta8Q=",
+  "Source": "WebHTTP3",
+  "BasePath": "_content/WebHTTP3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

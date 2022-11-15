@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebHTTP3.props" />
+</Project>
